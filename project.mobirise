@@ -209,7 +209,7 @@
               "size": 0
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Kra/Calle<br>\nBarranquilla, Atlántico",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br><br>Kra/Calle<br>\nBarranquilla, Atlántico",
           "text2": "<strong>Contacts</strong><br>\nEmail: ipanema@ipanema.com<br>Teléfono: +57 (5) 300 0000<br>\nCelular: +57 300 000 0000",
           "text3": "<br><br><br><br>",
           "_styles": {
