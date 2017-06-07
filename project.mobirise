@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 0,
+    "uniqCompNum": 2,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -172,6 +172,55 @@
           "_styles": {
             "P": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-ipanema-entertainment-128x83.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Kra/Calle<br>\nBarranquilla, Atlántico",
+          "text2": "<strong>Contacts</strong><br>\nEmail: ipanema@ipanema.com<br>Teléfono: +57 (5) 300 0000<br>\nCelular: +57 300 000 0000",
+          "text3": "<br><br><br><br>",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#2969b0"
             }
           }
         }
