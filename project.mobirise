@@ -23,7 +23,8 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -123,7 +124,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IPANEMA<br>Entertainment<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EMPRESA<br>Demo<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-5\">GALERÍA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-6\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLAD</a></li>"
         },
         {
@@ -149,12 +150,17 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "IPANEMA ENTERTAINMENT",
+          "title": "EMPRESA<br>DEMO",
           "text": "Párrafo de información quienes somos<br>...<br>...<br>...<br>...",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -168,12 +174,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Ipanema Entertainment.",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 Ipanema Entertainment."
         },
         {
           "_tags": [
@@ -395,6 +396,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts2-6",
           "_params": {
             "paddingTop": 3,
@@ -414,13 +420,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Dirección</strong><br>\nCalle/Carrera ## # ##-##<br>\nCiudad, Departamento<br><br><br>\n<strong>Contacto</strong><br>\nEmail: ipanema@ipanema.com<br>\nTeléfono: +57 (5) 300 0000<br>\nCelular +57 300 000 0000",
-          "text2": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text1": "<strong>Dirección</strong><br>\nCalle/Carrera ## # ##-##<br>\nCiudad, Departamento<br><br><br>\n<strong>Contacto</strong><br>\nEmail: correo@correo.com<br>\nTeléfono: +57 (5) 300 0000<br>\nCelular +57 300 000 0000",
+          "text2": ""
         }
       ]
     }
